@@ -101,11 +101,12 @@ Provide a simple helpdesk workflow: a domain user emails **[support@lab.local](m
 
 ## Screenshots
 
-* `screenshots/hmail-ip-ranges.png` – hMail IP Ranges (Require SMTP auth)
-* `screenshots/zammad-outbound-smtp.png` – Outbound SMTP as [support@lab.local](mailto:support@lab.local)
-* `screenshots/zammad-inbound-imap.png` – Inbound IMAP to Support group
-* `screenshots/zammad-open-tickets.png` – Ticket view
-* `screenshots/bob-inbox-ticket.png` – Email received by Bob
+![hmail-ip-ranges](./screenshots/hmail-ip-ranges.png)
+![alice-zammad](./screenshots/alice-zammad.png)
+![bob-thunderbird](./screenshots/bob-thunderbird.png)
+![zammad-linux](./screenshots/zammad-linux.png)
+
+
 
 ---
 
